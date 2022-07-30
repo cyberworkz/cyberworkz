@@ -8,6 +8,7 @@ I am Haiko van der Schaaf, Cloud Architect, Serverless Advocate & Blogger, AWS C
 
 ## ⚡ Technologies
 
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -16,3 +17,5 @@ I am Haiko van der Schaaf, Cloud Architect, Serverless Advocate & Blogger, AWS C
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberworkz&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cyberworkz.cyberworkz)
+<a href="https://twitter.com/DeHaiko"><img alt="Twitter" src="https://img.shields.io/twitter/follow/dehaiko?style=social"></a>
+
